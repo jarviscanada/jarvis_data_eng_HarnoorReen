@@ -1,0 +1,94 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "Faculty of Science Gold Medallion Scholar 2024",
+        "Dean's List (2020, 2021, 2022)",
+        "GPA: 3.7/4.0",
+        "Minor in Mathematics"
+      ],
+      "degree": "Bachelor of Science (Honours) - Computer Science With Software Engineering (Co-Op)",
+      "department": "School of Computer Science",
+      "duration": "2019-2024",
+      "school_name": "University of Windsor"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_HarnoorReen",
+  "highlighted_projects": [
+    {
+      "description": "Created a full-stack stock analysis tool for the Toronto Stock Exchange, scraping data from 1,700+ companies. Designed a user-friendly interface for comparing two stock tickers with integrated algorithms (EMA, SMA, RSI) for informed decision-making, and used LSTM for price prediction based on historical data.",
+      "git_url": "https://github.com/reenharnoorsingh/4990-project",
+      "name": "Stock Analyzer"
+    },
+    {
+      "description": "Developed a digital CV/website platform specifically tailored to Computer Science students, enabling users to deploy custom sites 50% faster than traditional methods.",
+      "git_url": "https://github.com/reenharnoorsingh/Automagic-Websites",
+      "name": "Automagic Websites"
+    },
+    {
+      "description": "Utilized Yahoo Finance API to gather Ethereum historical price data and Reddit API to retrieve Ethereum related posts. Performed Sentiment Analysis on Reddit posts through Hugging Face RoBERTa model. Leveraged Predictive Modeling by developing a Machine Learning Model to predict Ethereum prices based on historical data and sentiment features.",
+      "git_url": "https://github.com/reenharnoorsingh/reddit-sentiment-analysis",
+      "name": "Ethereum Price Prediction Using Sentiment Analysis"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "An application that helps track the memory usage of the host system. Uses bash scripting for scripts, PostgreSQL and Docker for database and git for version control. Also, uses crontab to run script every minute.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    }
+  ],
+  "name": "Harnoor Singh Reen",
+  "others": [
+    {
+      "bullets": [
+        "Data Science with Python - DataCamp (2023)",
+        "Developing on AWS - Amazon Web Services (2022)"
+      ],
+      "title": "Certificates"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis Consulting Group",
+      "description": "Developed projects using various technologies, which included implementing and testing. Attended daily scrum meetings with rest of the team to discuss work",
+      "duration": "September 2024 - present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "TC Energy",
+      "description": "Spearheaded the development of a Communications Data Lake on AWS, designing efficient ETL processes using Python to ingest data from over five social media APIs, resulting in a 20% improvement in data processing efficiency. Advanced statistical techniques were applied to analyze data and generate actionable insights, visualized through a Power BI dashboard, leading to a 10% increase in audience engagement and optimization of social media strategy. Co-engineered a Market Data Intelligence application using React, TypeScript, and AWS OpenSearch, automating market trend analysis and delivering $605K in annual savings. Integrated NLP algorithms and third-party APIs to build a real-time alert system, enhancing risk mitigation and saving 150 hours annually. Developed an NLP-based privacy tool with Named Entity Recognition (NER) techniques using spaCy, automating the identification and protection of sensitive data, saving $200K in manual review costs.",
+      "duration": "May 2022 - August 2023",
+      "title": "Digital Data \u0026 Analytics Intern"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "TypeScript",
+      "AWS",
+      "Docker",
+      "Django",
+      "PowerBI",
+      "Scikit-Learn",
+      "Pandas/Numpy",
+      "JavaScript"
+    ],
+    "familiar": [
+      "C/C++",
+      "Tensorflow",
+      "Selenium",
+      "Google Cloud Platform (GCP)",
+      "Flask"
+    ],
+    "proficient": [
+      "Java",
+      "Python",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git",
+      "React"
+    ]
+  },
+  "summary": "Hello! I am Harnoor and I am recent graduate from the University of Windsor where I did my Bachelors in Computer Science with a Specialization in Software Engineering and a Minor in Mathematics. My expertise includes programming in Python, Java, and TypeScript, as well as working with web development frameworks like React and Node.js. I have a strong foundation in data analysis, machine learning, and visualization using tools like Power BI and scikit-learn. In addition, I have hands-on experience with databases such as SQL and NoSQL and proficiency in Agile methodologies, CI/CD pipelines, and version control systems. I'm passionate about leveraging technology to create impactful software solutions and always open for learning experiences."
+}

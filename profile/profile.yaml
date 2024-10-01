@@ -1,0 +1,99 @@
+# Preferred name (Characters only)
+name: "Harnoor Singh Reen"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_HarnoorReen
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: Hello! I am Harnoor and I am recent graduate from the University of Windsor where I did my Bachelors in Computer Science with a Specialization in Software Engineering and a Minor in Mathematics. My expertise includes programming in Python, Java, and TypeScript, as well as working with web development frameworks like React and Node.js. I have a strong foundation in data analysis, machine learning, and visualization using tools like Power BI and scikit-learn. In addition, I have hands-on experience with databases such as SQL and NoSQL and proficiency in Agile methodologies, CI/CD pipelines, and version control systems. I'm passionate about leveraging technology to create impactful software solutions and always open for learning experiences.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Python
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+    - React
+  # At least 5 skills
+  competent:
+    - TypeScript
+    - AWS
+    - Docker
+    - Django
+    - PowerBI
+    - Scikit-Learn
+    - Pandas/Numpy
+    - JavaScript
+  # At least 5 skills
+  familiar:
+    - C/C++
+    - Tensorflow
+    - Selenium
+    - Google Cloud Platform (GCP)
+    - Flask
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: An application that helps track the memory usage of the host system. Uses bash scripting for scripts, PostgreSQL and Docker for database and git for version control. Also, uses crontab to run script every minute.
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Stock Analyzer"
+    #URL is optional
+    git_url: "https://github.com/reenharnoorsingh/4990-project"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Created a full-stack stock analysis tool for the Toronto Stock Exchange, scraping data from 1,700+ companies. Designed a user-friendly interface for comparing two stock tickers with integrated algorithms (EMA, SMA, RSI) for informed decision-making, and used LSTM for price prediction based on historical data.
+  - name: "Automagic Websites"
+    git_url: "https://github.com/reenharnoorsingh/Automagic-Websites"
+    description: Developed a digital CV/website platform specifically tailored to Computer Science students, enabling users to deploy custom sites 50% faster than traditional methods.
+  - name: "Ethereum Price Prediction Using Sentiment Analysis"
+    git_url: "https://github.com/reenharnoorsingh/reddit-sentiment-analysis"
+    description: Utilized Yahoo Finance API to gather Ethereum historical price data and Reddit API to retrieve Ethereum related posts. Performed Sentiment Analysis on Reddit posts through Hugging Face RoBERTa model. Leveraged Predictive Modeling by developing a Machine Learning Model to predict Ethereum prices based on historical data and sentiment features.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis Consulting Group"
+    duration: "September 2024 - present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Developed projects using various technologies, which included implementing and testing. Attended daily scrum meetings with rest of the team to discuss work"
+  - title: "Digital Data & Analytics Intern"
+    company: "TC Energy"
+    duration: "May 2022 - August 2023"
+    description: "Spearheaded the development of a Communications Data Lake on AWS, designing efficient ETL processes using Python to ingest data from over five social media APIs, resulting in a 20% improvement in data processing efficiency. Advanced statistical techniques were applied to analyze data and generate actionable insights, visualized through a Power BI dashboard, leading to a 10% increase in audience engagement and optimization of social media strategy. Co-engineered a Market Data Intelligence application using React, TypeScript, and AWS OpenSearch, automating market trend analysis and delivering $605K in annual savings. Integrated NLP algorithms and third-party APIs to build a real-time alert system, enhancing risk mitigation and saving 150 hours annually. Developed an NLP-based privacy tool with Named Entity Recognition (NER) techniques using spaCy, automating the identification and protection of sensitive data, saving $200K in manual review costs."
+
+#List of education
+education: 
+  - school_name: "University of Windsor"
+    duration: "2019-2024"
+    degree: "Bachelor of Science (Honours) - Computer Science With Software Engineering (Co-Op)"
+    department: "School of Computer Science"
+    # optional
+    awards_achievements: 
+      - "Faculty of Science Gold Medallion Scholar 2024"
+      - "Dean's List (2020, 2021, 2022)"
+      - "GPA: 3.7/4.0"
+      - "Minor in Mathematics"
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Data Science with Python - DataCamp (2023)"
+      - "Developing on AWS - Amazon Web Services (2022)"
